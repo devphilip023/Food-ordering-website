@@ -34,7 +34,7 @@
                         <a href="<?php echo SITEURL; ?>foods.php">Foods</a>
                     </li>
                     <li>
-                        <a href="<?php echo SITEURL; ?>about.php">Contact</a>
+                        <a href="<?php echo SITEURL; ?>about.php">About US</a>
                     </li>
                 </ul>
             </div>
